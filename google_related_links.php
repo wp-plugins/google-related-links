@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: google related links
+Plugin Name: Google Related Links
 Plugin URI: http://www.devilalbum.com/2010/04/plugin-google-related-links/
 Description: This plugin make use of Google Ajax Search Api to provide google related links.
 Version: 1.0
