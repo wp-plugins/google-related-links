@@ -1,0 +1,11 @@
+#search-form{
+display:none;
+}
+#search-related > a{
+display:block;
+margin-bottom:0.3em;
+}
+
+#search-related .more{
+font-style:italic;
+}
